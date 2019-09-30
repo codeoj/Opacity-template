@@ -1,1 +1,1 @@
-## Reset CSS
+## Opacity template 
