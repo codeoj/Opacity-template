@@ -4,6 +4,12 @@
 
 #banner {
 	border: solid pink 7px;
+	width: 100%;
+	height: 600px;
+	background-image: url('../img/banner03.jpg');
+	background-position: center;
+	background-size: cover;
+	position: relative;
 }
 
 #box-container {
@@ -34,3 +40,6 @@ header {
 	border: solid green 7px;
 }
 
+html {
+	font-family: Helvetica, sans-serif;
+}
