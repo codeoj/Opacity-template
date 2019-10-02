@@ -1,17 +1,36 @@
-button {
-	width: 250px;
-	height: 250px;
-	background: white;
-	color: black;
-	font-size: 200px;
+#container {
+	border: solid red 7px;
 }
 
-button:hover {
-	background: black;
-	color: white;
+#banner {
+	border: solid pink 7px;
 }
 
-h1 {
-	color: red;
-	font-size: 70px;
+#box-container {
+	border: solid purple 7px;
 }
+
+#box-backgound {
+	border: solid yellow 7px;
+}
+
+#box-banner-title {
+	border: solid blue 7px;
+}
+
+#company-info-container {
+	border: solid orange 7px;
+}
+
+#comapny-info-background {
+	border: solid green 7px;
+}
+
+#company-info-title-box {
+	border: solid black 7px;
+}
+
+header {
+	border: solid green 7px;
+}
+
