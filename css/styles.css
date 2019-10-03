@@ -1,9 +1,9 @@
 #container {
-	border: solid red 7px;
+	/*border: solid red 7px;*/
 }
 
 #banner {
-	border: solid pink 7px;
+	/*border: solid pink 7px;*/
 	width: 100%;
 	height: 600px;
 	background-image: url('../img/banner03.jpg');
@@ -13,27 +13,27 @@
 }
 
 #box-container {
-	border: solid purple 7px;
+	/*border: solid purple 7px;*/
 	position: absolute;
 	width: 400px;
 	height: 200px;
 	text-align: center;
 	right: 100px;
-	bottom: 180px;
+	bottom: 285px;
 
 }
 
 #box-backgound {
-	border: solid yellow 7px;
+	/*border: solid yellow 7px;*/
 	width: 100%;
 	height: 100%;
 	background-color: #000;
-	opacity: 0.8;
+	opacity: 0.7;
 	position: relative;
 }
 
 #box-banner-title {
-	border: solid blue 7px;
+	/*border: solid blue 7px;*/
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -53,19 +53,43 @@
 }
 
 #company-info-container {
-	border: solid orange 7px;
+	/*border: solid orange 7px;*/
+	width: 100%;
+	height: 175px;
+	position: absolute;
+	bottom: 0;
 }
 
 #comapny-info-background {
-	border: solid green 7px;
+	/*border: solid green 7px;*/
+	background-color: #DDD;
+	opacity: 0.8;
+	width: 100%;
+	height: 100%;
 }
 
 #company-info-title-box {
-	border: solid black 7px;
+	/*border: solid black 7px;*/
+	padding-left: 10%;
+	position: absolute;
+	top: 40px;
+	width: 500px;
+}
+	
+#company-info-title-box h2 {
+	color: #222;
+	margin-bottom: 30px;
+	font-size: 24px;
+
+}
+
+#company-info-title-box p {
+	color: #222;
+
 }
 
 header {
-	border: solid green 7px;
+	/*border: solid green 7px;*/
 }
 
 html {
