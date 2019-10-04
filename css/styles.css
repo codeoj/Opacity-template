@@ -90,14 +90,14 @@
 
 /* Primeira classe da seção, final do Header */
 .services-container {
-	border: solid pink 7px;
+	/*border: solid pink 7px;*/
 	max-width: 1200px;
 	padding: 30px 10%;
 	padding-bottom: 0;
 }
 
 .services-box {
-	border: solid red 7px;
+	/*border: solid red 7px;*/
 	width: 100%;
 	position: relative;
 	clear: both;
@@ -111,7 +111,7 @@
 }
 
 .services-title {
-	border: solid blue 7px;
+	/*border: solid blue 7px;*/
 	width: 20%;
 	height: 150px;
 	background-color: #DDD;
@@ -131,7 +131,7 @@
 }
 
 .services-description {
-	border: solid black 7px;
+	/*border: solid black 7px;*/
 	width: 80%;
 	float: left;
 	padding: 30px;
@@ -150,12 +150,39 @@
 	line-height: 22px;
 }
 
+/*id titulos*/
+#gerenciamento-title {
+	color: #2364AA;
+}
+
+#dev-title {
+	color: #3DA5D9;
+}
+
+#design-title {
+	color: #73BFB8;
+}
+
+ /*id boxs*/
+#gerenciamento-box {
+	background-color: #2364AA;
+}
+
+#dev-box {
+	background-color: #3DA5D9;
+}
+
+#design-box {
+	background-color: #73BFB8;
+}
+
+
 header {
 	/*border: solid green 7px;*/
 }
 
 section {
-	border: solid purple 7px;
+	/*border: solid purple 7px;*/
 
 }
 
