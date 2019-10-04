@@ -91,14 +91,29 @@
 /* Primeira classe da seção, final do Header */
 .services-container {
 	border: solid pink 7px;
+	max-width: 1200px;
+	padding: 30px 10%;
+	padding-bottom: 0;
 }
 
 .services-box {
 	border: solid red 7px;
+	width: 100%;
+	position: relative;
+	clear: both;
+	height: 150px;
+	margin-bottom: 30px;
+}
+
+.services-box:last {
+	margin-bottom: 0px;
+
 }
 
 .services-title {
 	border: solid blue 7px;
+	width: 20%;
+
 }
 
 .services-description {
