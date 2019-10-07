@@ -191,6 +191,7 @@
 	clear: both;
 }
 
+
 .about-card {
 	float: left;
 	width: 30%;
@@ -198,8 +199,12 @@
 	background-color: #FFF;
 	text-align: center;
 	box-sizing: border-box;
-
 }
+
+.about-card:hover {
+	box-shadow: 0 0 30px #BDBDBD;
+}
+
 
 .about-cardm {
 	margin-left: 5%;
