@@ -178,13 +178,13 @@
 
 /*Sobre a empresa*/
 .footer-container {
-	border: solid pink 7px;
+	/*border: solid pink 7px;*/
 	background-image: url('../img/rodape.jpg');
 	background-position: center; 
 }
 
 .about-container {
-	border: solid red 7px;
+	/*border: solid red 7px;*/
 	max-width: 1200px;
 	padding: 30px 10%;
 	position: relative;
