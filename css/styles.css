@@ -176,6 +176,38 @@
 	background-color: #73BFB8;
 }
 
+/*Sobre a empresa*/
+.footer-container {
+	background-image: url('../img/rodape.jpg');
+	background-position: center; 
+}
+
+.about-container {
+	max-width: 1200px;
+	padding: 30px 10%;
+	position: relative;
+	clear: both;
+}
+
+.about-card {
+	float: left;
+	width: 30%;
+	padding-top: 30px;
+	background-color: #FFF;
+	text-align: center;
+	box-sizing: border-box;
+
+}
+
+.about-cardm {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+/*.about-cardm2 {
+	margin-left: 5%;
+	margin-right: 5%
+}*/
 
 header {
 	/*border: solid green 7px;*/
