@@ -1,6 +1,6 @@
 # Opacity template
 
-Template for web site opacity style.
+Template for web [site](https://codfect.github.io/Opacity-template/) opacity style.
 
 ## Usage
 
