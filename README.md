@@ -10,3 +10,10 @@ Template for web site opacity style.
 
 License: none (public domain)
 
+### Check List
+
+- [x] Header and banner
+- [x] Section with 3 boxs
+- [x] Container section cards
+- [] Footer
+- [] Login
