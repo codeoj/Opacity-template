@@ -229,6 +229,15 @@
 	text-align: center;
 }
 
+/* footer */
+footer {
+	clear: both;
+	max-width: 120px;
+	height: 500px;
+	padding: 30px 10%;
+	position: relative;
+}
+
 header {
 	/*border: solid green 7px;*/
 }
