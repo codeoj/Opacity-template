@@ -294,6 +294,15 @@ footer {
 	background-color: transparent;
 }
 
+.form-container textarea {
+	height: 120px;
+}
+
+.form-container input::placeholder, .form-container textarea::placeholder {
+	font-size: 14px;
+}
+
+
 header {
 	/*border: solid green 7px;*/
 }
