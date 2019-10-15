@@ -253,6 +253,15 @@ footer {
 	opacity: 0.5;
 }
 
+/*footer*/
+footer {
+	clear: both;
+	max-width: 1200px;
+	height: 500px;
+	padding: 30px 10%;
+	position: relative;
+}
+
 header {
 	/*border: solid green 7px;*/
 }
