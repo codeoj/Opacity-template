@@ -302,6 +302,16 @@ footer {
 	font-size: 14px;
 }
 
+.form-container .submit {
+	background-color: #222;
+	color: #FFF;
+	border: 1px solid transparent;
+	width: 100px;
+	position: relative;
+	float: right;
+	cursor: pointer;
+	transition: .5s;
+}
 
 header {
 	/*border: solid green 7px;*/
