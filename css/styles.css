@@ -180,7 +180,8 @@
 .footer-container {
 	/*border: solid pink 7px;*/
 	background-image: url('../img/rodape.jpg');
-	background-position: center; 
+	background-position: center;
+	background-size: cover; 
 }
 
 .about-container {
@@ -225,7 +226,7 @@
 	margin-top: 50px;
 	font-size: 15px;
 	line-height: 22px;
-	color: #000;
+	color: #6E6E6E;
 	text-align: center;
 }
 
@@ -257,13 +258,14 @@ footer {
 footer {
 	clear: both;
 	max-width: 1200px;
-	height: 500px;
+	height: 400px;
 	padding: 30px 10%;
 	position: relative;
 }
 
 .form-container {
-	width: 65%;
+	border: solid purple 7px;
+	width: 50%;
 	height: 375px;
 	position: relative;
 	display: block;
@@ -318,6 +320,8 @@ footer {
 	color: #222;
 	border: 1px solid #222
 }
+
+.botton-container
 
 header {
 	/*border: solid green 7px;*/
