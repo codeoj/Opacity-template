@@ -204,6 +204,8 @@
 
 .about-card:hover {
 	box-shadow: 0 0 30px #BDBDBD;
+	cursor: pointer;
+	transition: .5s;
 }
 
 
@@ -264,7 +266,7 @@ footer {
 }
 
 .form-container {
-	border: solid purple 7px;
+	/*border: solid purple 7px;*/
 	width: 50%;
 	height: 375px;
 	position: relative;
@@ -334,10 +336,16 @@ footer {
 
 .botton-container i {
 	font-size: 40px;
-	color: #000;
+	color: #222;
 	padding: 10px;
 	padding-left: 10px;
 	text-align: center;
+	cursor: pointer;
+	transition: .5s;
+}
+
+.botton-container i:hover {
+	color: white;
 }
 
 .botton-container h3 {
@@ -347,10 +355,11 @@ footer {
 }
 
 .botton-container p {
+	line-height: 22px;
 	font-size: 14px;
 	color: #6E6E6E;
 	text-align: left;
-	padding-bottom: 120px;
+	padding-bottom: 70px;
 }
 
 header {
