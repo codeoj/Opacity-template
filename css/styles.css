@@ -313,6 +313,12 @@ footer {
 	transition: .5s;
 }
 
+.form-container .submit:hover {
+	background-color: #FFF;
+	color: #222;
+	border: 1px solid #222
+}
+
 header {
 	/*border: solid green 7px;*/
 }
