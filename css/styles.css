@@ -276,6 +276,24 @@ footer {
 	opacity: .5;
 }
 
+.form-container form {
+	position: absolute;
+	top: 30px;
+	left: 30px;	
+	height: 300px;
+}
+
+.form-container input, .form-container textarea{
+	width: 400px;
+	display: block;
+	border: none;
+	padding: 10px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #AAA;
+	border-radius: 0;
+	background-color: transparent;
+}
+
 header {
 	/*border: solid green 7px;*/
 }
