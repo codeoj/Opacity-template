@@ -262,6 +262,20 @@ footer {
 	position: relative;
 }
 
+.form-container {
+	width: 65%;
+	height: 375px;
+	position: relative;
+	display: block;
+}
+
+.form-background {
+	width: 100%;
+	height: 100%
+	background-color: #FFF;
+	opacity: .5;
+}
+
 header {
 	/*border: solid green 7px;*/
 }
