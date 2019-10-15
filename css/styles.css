@@ -321,7 +321,37 @@ footer {
 	border: 1px solid #222
 }
 
-.botton-container
+.botton-container {
+	/*border: solid 7px pink;*/
+	margin: 50px;
+	float: right;
+	width: 20%;
+	height: 300px;
+	position: relative;
+	display: block;
+	
+}
+
+.botton-container i {
+	font-size: 40px;
+	color: #000;
+	padding: 10px;
+	padding-left: 10px;
+	text-align: center;
+}
+
+.botton-container h3 {
+	font-size: 18px;
+	color: #6E6E6E;
+	text-align: left;
+}
+
+.botton-container p {
+	font-size: 14px;
+	color: #6E6E6E;
+	text-align: left;
+	padding-bottom: 120px;
+}
 
 header {
 	/*border: solid green 7px;*/
