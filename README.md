@@ -15,5 +15,5 @@ License: none (public domain)
 - [x] Header and banner
 - [x] Section with 3 boxs
 - [x] Container section cards
-- [ ] Message form
-- [ ] Footer
+- [x] Submit message form
+- [x] Footer icons
