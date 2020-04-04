@@ -233,14 +233,14 @@
 }
 
 /* footer */
-footer {
-	/*border: solid red 7px;*/
+/*footer {
+	border: solid red 7px;
 	clear: both;
 	max-width: 1200px;
 	height: 500px;
 	padding: 30px 10%;
 	position: relative;
-}
+}*/
 
 .form-container {
 	width: 65%;
